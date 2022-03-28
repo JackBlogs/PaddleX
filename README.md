@@ -1,3 +1,5 @@
+<p>paddlepaddle 公众号：https://mp.weixin.qq.com/s/A-RCbXl0VofnnzwEuEsj2A</p>
+
 <p align="center">
   <img src="./docs/gui/images/paddlex.png" width="360" height ="55" alt="PaddleX" align="middle" />
 </p>
